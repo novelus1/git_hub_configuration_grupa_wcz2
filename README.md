@@ -1,0 +1,1 @@
+# git_hub_configuration_grupa_wcz2
